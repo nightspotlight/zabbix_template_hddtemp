@@ -18,7 +18,9 @@ Zabbix template for monitoring disk temperature. Uses [sysfs](https://en.wikiped
 1. Import *zbx_template_hddtemp.xml* template file into Zabbix templates
 
 ## Authors
-Roman Eremeev
+* Roman Eremeev
+
+See also the list of [contributors](//github.com/nightspotlight/zabbix_template_hddtemp/contributors) who participated in this project.
 
 ## License
 This work is licensed under the Creative Commons Attribution Share Alike 4.0 license – see [LICENSE](LICENSE) file for details.
