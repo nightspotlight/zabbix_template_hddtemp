@@ -1,8 +1,8 @@
 # HDD temperature monitoring template for Zabbix
-Zabbix template for monitoring disk temperature. Uses [sysfs](https://en.wikipedia.org/wiki/Sysfs) and hddtemp command-line tool.
+Zabbix template for monitoring disk temperature. Uses [sysfs](https://en.wikipedia.org/wiki/Sysfs) and [hddtemp](http://www.guzu.net/linux/hddtemp.php) command-line tool.
 
 ## Prerequisites
-* Zabbix server version 3.0 or 3.2
+* Zabbix server version 3.0+
 * Zabbix database in UTF-8
 * Zabbix Agent user has read access to sysfs
 * hddtemp is installed
